@@ -1,7 +1,15 @@
-### Hello there I'm Hairo Garcia 👋
+### Hello there 👋
+<h1>My name is Hairo Garcia</h1>
+<p>I'm Full Stack Web Developer with a drive to learn, created new and accesible services/products to everybody with the help of:</p>
+<ul>
+  <li>Javascript</li>
+  <li>Node.js</li>
+  <li>React.js</li>
+  <li>Postgres</li>
+</ul>
+<p>and more!!</p>
 
-
-Here are some ideas to get you started:
+Take a look at what I'm doing right now:
 
 - 🔭 I’m currently working on ... Blue Witness
 - 🌱 I’m currently learning ... AntD
